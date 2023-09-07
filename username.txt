@@ -1,0 +1,5 @@
+:nidhi
+    nidhi : hi  
+    nidhi : bye  
+    nilesh : bhag  
+    nidhi : bhag  
